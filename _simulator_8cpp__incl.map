@@ -1,7 +1,8 @@
 <map id="Simulator.cpp" name="Simulator.cpp">
-<area shape="rect" id="node2" href="$_simulator_8h.html" title="Declares the Simulator class. " alt="" coords="5,152,93,177"/>
-<area shape="rect" id="node9" href="$_agent_8h.html" title="Declares the Agent class. " alt="" coords="260,79,327,104"/>
-<area shape="rect" id="node14" href="$_goal_8h.html" title="Declares the Goal class. " alt="" coords="580,79,641,104"/>
-<area shape="rect" id="node15" href="$_kd_tree_8h.html" title="Declares the KdTree class. " alt="" coords="442,79,518,104"/>
-<area shape="rect" id="node5" href="$_vector2_8h.html" title="Declares and defines the Vector2 class. " alt="" coords="447,225,524,251"/>
+<area shape="rect" id="node2" href="$_simulator_8h.html" title="Declares the Simulator class. " alt="" coords="141,152,229,177"/>
+<area shape="rect" id="node10" href="$_agent_8h.html" title="Declares the Agent class. " alt="" coords="294,79,361,104"/>
+<area shape="rect" id="node15" href="$_goal_8h.html" title="Declares the Goal class. " alt="" coords="5,152,66,177"/>
+<area shape="rect" id="node16" href="$_kd_tree_8h.html" title="Declares the KdTree class. " alt="" coords="514,152,589,177"/>
+<area shape="rect" id="node3" href="$_a_p_i_8h.html" title="Defines macros related to Microsoft Windows. " alt="" coords="233,299,287,324"/>
+<area shape="rect" id="node6" href="$_vector2_8h.html" title="Declares and defines the Vector2 class. " alt="" coords="69,225,146,251"/>
 </map>
